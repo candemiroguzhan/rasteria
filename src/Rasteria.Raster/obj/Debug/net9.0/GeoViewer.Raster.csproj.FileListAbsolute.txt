@@ -1,0 +1,15 @@
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\bin\Debug\net9.0\GeoViewer.Raster.deps.json
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\bin\Debug\net9.0\GeoViewer.Raster.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\bin\Debug\net9.0\GeoViewer.Raster.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\bin\Debug\net9.0\GeoViewer.Core.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\bin\Debug\net9.0\GeoViewer.Core.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\obj\Debug\net9.0\GeoViewer.Raster.csproj.AssemblyReference.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\obj\Debug\net9.0\GeoViewer.Raster.GeneratedMSBuildEditorConfig.editorconfig
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\obj\Debug\net9.0\GeoViewer.Raster.AssemblyInfoInputs.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\obj\Debug\net9.0\GeoViewer.Raster.AssemblyInfo.cs
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\obj\Debug\net9.0\GeoViewer.Raster.csproj.CoreCompileInputs.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\obj\Debug\net9.0\GeoViewe.CEBE261F.Up2Date
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\obj\Debug\net9.0\GeoViewer.Raster.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\obj\Debug\net9.0\refint\GeoViewer.Raster.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\obj\Debug\net9.0\GeoViewer.Raster.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Raster\obj\Debug\net9.0\ref\GeoViewer.Raster.dll

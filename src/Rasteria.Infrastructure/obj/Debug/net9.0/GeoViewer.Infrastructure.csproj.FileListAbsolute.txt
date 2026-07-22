@@ -1,0 +1,17 @@
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\bin\Debug\net9.0\GeoViewer.Infrastructure.deps.json
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\bin\Debug\net9.0\GeoViewer.Infrastructure.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\bin\Debug\net9.0\GeoViewer.Infrastructure.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\bin\Debug\net9.0\GeoViewer.Core.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\bin\Debug\net9.0\GeoViewer.Raster.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\bin\Debug\net9.0\GeoViewer.Core.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\bin\Debug\net9.0\GeoViewer.Raster.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\obj\Debug\net9.0\GeoViewer.Infrastructure.csproj.AssemblyReference.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\obj\Debug\net9.0\GeoViewer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\obj\Debug\net9.0\GeoViewer.Infrastructure.AssemblyInfoInputs.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\obj\Debug\net9.0\GeoViewer.Infrastructure.AssemblyInfo.cs
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\obj\Debug\net9.0\GeoViewer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\obj\Debug\net9.0\GeoViewe.FC22BA44.Up2Date
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\obj\Debug\net9.0\GeoViewer.Infrastructure.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\obj\Debug\net9.0\refint\GeoViewer.Infrastructure.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\obj\Debug\net9.0\GeoViewer.Infrastructure.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Infrastructure\obj\Debug\net9.0\ref\GeoViewer.Infrastructure.dll

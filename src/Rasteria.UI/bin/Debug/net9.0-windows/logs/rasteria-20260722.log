@@ -1,0 +1,38 @@
+2026-07-22 00:52:20.730 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-22 00:52:20.829 +03:00 [INF] Hosting environment: Production
+2026-07-22 00:52:20.830 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.UI\bin\Debug\net9.0-windows
+2026-07-22 00:58:10.129 +03:00 [INF] Application is shutting down...
+2026-07-22 01:29:55.088 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-22 01:29:55.118 +03:00 [INF] Hosting environment: Production
+2026-07-22 01:29:55.119 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.UI\bin\Debug\net9.0-windows
+2026-07-22 01:32:17.163 +03:00 [INF] Application is shutting down...
+2026-07-22 01:43:05.898 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-22 01:43:05.928 +03:00 [INF] Hosting environment: Production
+2026-07-22 01:43:05.928 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.UI\bin\Debug\net9.0-windows
+2026-07-22 01:59:46.513 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-22 01:59:46.548 +03:00 [INF] Hosting environment: Production
+2026-07-22 01:59:46.549 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.UI\bin\Debug\net9.0-windows
+2026-07-22 02:02:52.714 +03:00 [WRN] GDAL is not available for C:\Users\ocandemir\Downloads\Nevsehir_Ortofoto_TM36_TUREF\Nevsehir_Ortofoto_TM36_TUREF.ecw
+System.ApplicationException: `C:\Users\ocandemir\Downloads\Nevsehir_Ortofoto_TM36_TUREF\Nevsehir_Ortofoto_TM36_TUREF.ecw' not recognized as being in a supported file format.
+   at OSGeo.GDAL.Gdal.Open(String path, Access eAccess)
+   at Rasteria.Raster.Gdal.GdalTileSource.CanOpen(String filePath) in C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Raster\Gdal\GdalTileSource.cs:line 83
+2026-07-22 02:02:52.917 +03:00 [ERR] Rasteria operation failed
+System.InvalidOperationException: GDAL could not open raster: C:\Users\ocandemir\Downloads\Nevsehir_Ortofoto_TM36_TUREF\Nevsehir_Ortofoto_TM36_TUREF.ecw
+   at Rasteria.Raster.Gdal.GdalRasterSourceFactory.Open(String filePath) in C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Raster\Gdal\GdalRasterSourceFactory.cs:line 16
+   at Rasteria.UI.ViewModels.MainWindowViewModel.<>c__DisplayClass58_0.<<OpenRasterAsync>b__0>d.MoveNext() in C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.UI\ViewModels\MainWindowViewModel.cs:line 155
+--- End of stack trace from previous location ---
+   at Rasteria.UI.ViewModels.MainWindowViewModel.RunSafelyAsync(Func`1 action) in C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.UI\ViewModels\MainWindowViewModel.cs:line 255
+2026-07-22 02:04:20.763 +03:00 [WRN] GDAL is not available for C:\Users\ocandemir\Downloads\Nevsehir_Ortofoto_TM36_TUREF\Nevsehir_Ortofoto_TM36_TUREF.ecw
+System.ApplicationException: `C:\Users\ocandemir\Downloads\Nevsehir_Ortofoto_TM36_TUREF\Nevsehir_Ortofoto_TM36_TUREF.ecw' not recognized as being in a supported file format.
+   at OSGeo.GDAL.Gdal.Open(String path, Access eAccess)
+   at Rasteria.Raster.Gdal.GdalTileSource.CanOpen(String filePath) in C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Raster\Gdal\GdalTileSource.cs:line 83
+2026-07-22 02:04:20.823 +03:00 [ERR] Rasteria operation failed
+System.InvalidOperationException: GDAL could not open raster: C:\Users\ocandemir\Downloads\Nevsehir_Ortofoto_TM36_TUREF\Nevsehir_Ortofoto_TM36_TUREF.ecw
+   at Rasteria.Raster.Gdal.GdalRasterSourceFactory.Open(String filePath) in C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Raster\Gdal\GdalRasterSourceFactory.cs:line 16
+   at Rasteria.UI.ViewModels.MainWindowViewModel.<>c__DisplayClass58_0.<<OpenRasterAsync>b__0>d.MoveNext() in C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.UI\ViewModels\MainWindowViewModel.cs:line 155
+--- End of stack trace from previous location ---
+   at Rasteria.UI.ViewModels.MainWindowViewModel.RunSafelyAsync(Func`1 action) in C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.UI\ViewModels\MainWindowViewModel.cs:line 255
+2026-07-22 02:19:42.781 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-22 02:19:42.808 +03:00 [INF] Hosting environment: Production
+2026-07-22 02:19:42.809 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.UI\bin\Debug\net9.0-windows
+2026-07-22 02:21:03.129 +03:00 [INF] Application is shutting down...

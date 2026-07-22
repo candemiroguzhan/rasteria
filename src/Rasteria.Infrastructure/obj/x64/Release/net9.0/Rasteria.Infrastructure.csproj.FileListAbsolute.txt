@@ -1,0 +1,17 @@
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\bin\x64\Release\net9.0\Rasteria.Infrastructure.deps.json
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\bin\x64\Release\net9.0\Rasteria.Infrastructure.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\bin\x64\Release\net9.0\Rasteria.Infrastructure.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\bin\x64\Release\net9.0\Rasteria.Core.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\bin\x64\Release\net9.0\Rasteria.Raster.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\bin\x64\Release\net9.0\Rasteria.Core.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\bin\x64\Release\net9.0\Rasteria.Raster.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\obj\x64\Release\net9.0\Rasteria.Infrastructure.csproj.AssemblyReference.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\obj\x64\Release\net9.0\Rasteria.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\obj\x64\Release\net9.0\Rasteria.Infrastructure.AssemblyInfoInputs.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\obj\x64\Release\net9.0\Rasteria.Infrastructure.AssemblyInfo.cs
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\obj\x64\Release\net9.0\Rasteria.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\obj\x64\Release\net9.0\Rasteria.0572F1F3.Up2Date
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\obj\x64\Release\net9.0\Rasteria.Infrastructure.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\obj\x64\Release\net9.0\refint\Rasteria.Infrastructure.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\obj\x64\Release\net9.0\Rasteria.Infrastructure.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Infrastructure\obj\x64\Release\net9.0\ref\Rasteria.Infrastructure.dll

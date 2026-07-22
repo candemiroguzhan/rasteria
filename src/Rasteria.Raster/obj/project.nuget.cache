@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zjS3LnHIO74=",
+  "success": true,
+  "projectFilePath": "C:\\ocandemir\\Repos\\Rasteria\\src\\Rasteria.Raster\\Rasteria.Raster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ocandemir\\.nuget\\packages\\maxrev.gdal.core\\3.13.1.534\\maxrev.gdal.core.3.13.1.534.nupkg.sha512",
+    "C:\\Users\\ocandemir\\.nuget\\packages\\maxrev.gdal.windowsruntime.minimal\\3.13.1.534\\maxrev.gdal.windowsruntime.minimal.3.13.1.534.nupkg.sha512",
+    "C:\\Users\\ocandemir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\ocandemir\\.nuget\\packages\\nettopologysuite\\2.6.0\\nettopologysuite.2.6.0.nupkg.sha512",
+    "C:\\Users\\ocandemir\\.nuget\\packages\\projnet\\2.1.0\\projnet.2.1.0.nupkg.sha512",
+    "C:\\Users\\ocandemir\\.nuget\\packages\\serilog\\4.3.1\\serilog.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

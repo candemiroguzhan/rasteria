@@ -1,0 +1,15 @@
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\bin\x64\Release\net9.0-windows\Rasteria.Rendering.deps.json
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\bin\x64\Release\net9.0-windows\Rasteria.Rendering.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\bin\x64\Release\net9.0-windows\Rasteria.Rendering.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\bin\x64\Release\net9.0-windows\Rasteria.Core.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\bin\x64\Release\net9.0-windows\Rasteria.Core.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\obj\x64\Release\net9.0-windows\Rasteria.Rendering.csproj.AssemblyReference.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\obj\x64\Release\net9.0-windows\Rasteria.Rendering.GeneratedMSBuildEditorConfig.editorconfig
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\obj\x64\Release\net9.0-windows\Rasteria.Rendering.AssemblyInfoInputs.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\obj\x64\Release\net9.0-windows\Rasteria.Rendering.AssemblyInfo.cs
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\obj\x64\Release\net9.0-windows\Rasteria.Rendering.csproj.CoreCompileInputs.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\obj\x64\Release\net9.0-windows\Rasteria.E46AE6D7.Up2Date
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\obj\x64\Release\net9.0-windows\Rasteria.Rendering.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\obj\x64\Release\net9.0-windows\refint\Rasteria.Rendering.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\obj\x64\Release\net9.0-windows\Rasteria.Rendering.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\Rasteria.Rendering\obj\x64\Release\net9.0-windows\ref\Rasteria.Rendering.dll

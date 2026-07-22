@@ -1,0 +1,12 @@
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\bin\Debug\net9.0\GeoViewer.Core.deps.json
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\bin\Debug\net9.0\GeoViewer.Core.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\bin\Debug\net9.0\GeoViewer.Core.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\obj\Debug\net9.0\GeoViewer.Core.csproj.AssemblyReference.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\obj\Debug\net9.0\GeoViewer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\obj\Debug\net9.0\GeoViewer.Core.AssemblyInfoInputs.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\obj\Debug\net9.0\GeoViewer.Core.AssemblyInfo.cs
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\obj\Debug\net9.0\GeoViewer.Core.csproj.CoreCompileInputs.cache
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\obj\Debug\net9.0\GeoViewer.Core.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\obj\Debug\net9.0\refint\GeoViewer.Core.dll
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\obj\Debug\net9.0\GeoViewer.Core.pdb
+C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.Core\obj\Debug\net9.0\ref\GeoViewer.Core.dll

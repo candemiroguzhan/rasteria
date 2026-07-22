@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="src/Rasteria.Core/Rasteria.Core.csproj" />
+  <Project Path="src/Rasteria.UI/Rasteria.UI.csproj" />
+  <Project Path="src/Rasteria.Raster/Rasteria.Raster.csproj" />
+  <Project Path="src/Rasteria.Rendering/Rasteria.Rendering.csproj" />
+  <Project Path="src/Rasteria.Infrastructure/Rasteria.Infrastructure.csproj" />
+  <Project Path="tests/Rasteria.Rendering.Tests/Rasteria.Rendering.Tests.csproj" />
+</Solution>

@@ -1,0 +1,58 @@
+2026-07-06 14:49:09.130 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-06 14:49:09.328 +03:00 [INF] Hosting environment: Production
+2026-07-06 14:49:09.331 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.UI\bin\Debug\net9.0-windows
+2026-07-06 14:54:42.144 +03:00 [INF] Application is shutting down...
+2026-07-06 15:16:21.391 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-06 15:16:21.419 +03:00 [INF] Hosting environment: Production
+2026-07-06 15:16:21.420 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.UI\bin\Debug\net9.0-windows
+2026-07-06 15:19:30.424 +03:00 [INF] Application is shutting down...
+2026-07-06 15:19:36.515 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-06 15:19:36.548 +03:00 [INF] Hosting environment: Production
+2026-07-06 15:19:36.549 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.UI\bin\Debug\net9.0-windows
+2026-07-06 15:19:55.682 +03:00 [INF] Application is shutting down...
+2026-07-06 16:39:14.106 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-06 16:39:14.135 +03:00 [INF] Hosting environment: Production
+2026-07-06 16:39:14.136 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.UI\bin\Debug\net9.0-windows
+2026-07-06 16:40:04.671 +03:00 [INF] Application is shutting down...
+2026-07-06 16:40:11.493 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-06 16:40:11.525 +03:00 [INF] Hosting environment: Production
+2026-07-06 16:40:11.525 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.UI\bin\Debug\net9.0-windows
+2026-07-06 16:40:42.628 +03:00 [INF] Application is shutting down...
+2026-07-06 17:23:26.415 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-06 17:23:26.443 +03:00 [INF] Hosting environment: Production
+2026-07-06 17:23:26.444 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.UI\bin\Debug\net9.0-windows
+2026-07-06 17:49:22.810 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-06 17:49:22.839 +03:00 [INF] Hosting environment: Production
+2026-07-06 17:49:22.840 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.UI\bin\Debug\net9.0-windows
+2026-07-06 17:49:23.539 +03:00 [INF] Camera TopDownOrthographic. Position 0,0,200, look 0,0,-1, up 0,1,0, near 0.1, far 1000
+2026-07-06 17:49:36.331 +03:00 [INF] Scene local origin initialized at 0,0,0
+2026-07-06 17:49:39.761 +03:00 [INF] Assimp mesh loaded. Path C:\Users\ocandemir\Downloads\6e48z1kc7r40-bugatti\bugatti\bugatti.obj, scene nodes 126, animations 0, error "Succeed"
+2026-07-06 18:01:13.271 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-06 18:01:13.301 +03:00 [INF] Hosting environment: Production
+2026-07-06 18:01:13.302 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.UI\bin\Debug\net9.0-windows
+2026-07-06 18:01:14.004 +03:00 [INF] Camera TopDownOrthographic. Position 0,0,200, look 0,0,-1, up 0,1,0, near 0.1, far 1000
+2026-07-06 18:01:27.718 +03:00 [INF] Scene local origin initialized at 389977.22388471104,4284000.644699314,0
+2026-07-06 18:01:27.799 +03:00 [INF] Raster layer loaded. Path C:\Users\ocandemir\Downloads\Nevsehir_Ortofoto_TM36_TUREF\little2.tif, tiles 1, failed 0, bounds SceneBounds { MinX = 389786.97388471104, MinY = 4283732.394699314, MinZ = 0, MaxX = 390167.47388471104, MaxY = 4284268.894699314, MaxZ = 0, Width = 380.5, Depth = 536.5, Height = 0, CenterX = 389977.22388471104, CenterY = 4284000.644699314, CenterZ = 0, Radius = 328.8664242515493 }, local bounds SceneBounds { MinX = -190.25, MinY = -268.25, MinZ = 0, MaxX = 190.25, MaxY = 268.25, MaxZ = 0, Width = 380.5, Depth = 536.5, Height = 0, CenterX = 0, CenterY = 0, CenterZ = 0, Radius = 328.8664242515493 }
+2026-07-06 18:01:27.823 +03:00 [INF] Camera TopDownOrthographic. Position 0,0,657.7328485030986, look 0,0,-1, up 0,1,0, near 0.1, far 2630.9313940123943
+2026-07-06 18:01:27.823 +03:00 [INF] Scene layer added. Id "486bc740-ad87-4d10-8dfe-a8b6dc0cfdb4", name little2.tif, type "Raster", world bounds SceneBounds { MinX = 389786.97388471104, MinY = 4283732.394699314, MinZ = 0, MaxX = 390167.47388471104, MaxY = 4284268.894699314, MaxZ = 0, Width = 380.5, Depth = 536.5, Height = 0, CenterX = 389977.22388471104, CenterY = 4284000.644699314, CenterZ = 0, Radius = 328.8664242515493 }, local bounds SceneBounds { MinX = -190.25, MinY = -268.25, MinZ = 0, MaxX = 190.25, MaxY = 268.25, MaxZ = 0, Width = 380.5, Depth = 536.5, Height = 0, CenterX = 0, CenterY = 0, CenterZ = 0, Radius = 328.8664242515493 }, origin 389977.22388471104,4284000.644699314,0
+2026-07-06 18:01:37.705 +03:00 [INF] Camera TopDownOrthographic. Position 0,0,657.7328485030986, look 0,0,-1, up 0,1,0, near 0.1, far 2630.9313940123943
+2026-07-06 18:01:38.410 +03:00 [INF] Camera TopDownOrthographic. Position 0,0,657.7328485030986, look 0,0,-1, up 0,1,0, near 0.1, far 2630.9313940123943
+2026-07-06 18:01:39.306 +03:00 [INF] Camera TopDownOrthographic. Position 0,0,657.7328485030986, look 0,0,-1, up 0,1,0, near 0.1, far 2630.9313940123943
+2026-07-06 18:01:39.938 +03:00 [INF] Camera TopDownOrthographic. Position 0,0,657.7328485030986, look 0,0,-1, up 0,1,0, near 0.1, far 2630.9313940123943
+2026-07-06 18:01:40.474 +03:00 [INF] Camera TopDownOrthographic. Position 0,0,200, look 0,0,-1, up 0,1,0, near 0.1, far 1000
+2026-07-06 18:01:40.475 +03:00 [INF] Added default test cube. Vertices 8, triangles 12, bounds SceneBounds { MinX = -25, MinY = -25, MinZ = -25, MaxX = 25, MaxY = 25, MaxZ = 25, Width = 50, Depth = 50, Height = 50, CenterX = 0, CenterY = 0, CenterZ = 0, Radius = 43.30127018922193 }
+2026-07-06 18:02:23.393 +03:00 [INF] Raw mesh data read. Path C:\Users\ocandemir\Downloads\6e48z1kc7r40-bugatti\bugatti\bugatti.obj, mesh count 71, vertex count 1720672, triangle count 1471772, bounds SceneBounds { MinX = -62.96882629394531, MinY = -4.5019450187683105, MinZ = -59.3803596496582, MaxX = 44.895790100097656, MaxY = 38.359336853027344, MaxZ = 40.47556686401367, Width = 107.86461639404297, Depth = 42.861281871795654, Height = 99.85592651367188, CenterX = -9.036518096923828, CenterY = 16.928695917129517, CenterZ = -9.452396392822266, Radius = 76.55565134826985 }, material count 41
+2026-07-06 18:02:23.489 +03:00 [INF] Mesh layer loaded. Path C:\Users\ocandemir\Downloads\6e48z1kc7r40-bugatti\bugatti\bugatti.obj, mesh visuals 71, vertex count 1720672, triangle count 1471772, bounds SceneBounds { MinX = -62.96882629394531, MinY = -4.5019450187683105, MinZ = -59.3803596496582, MaxX = 44.895790100097656, MaxY = 38.359336853027344, MaxZ = 40.47556686401367, Width = 107.86461639404297, Depth = 42.861281871795654, Height = 99.85592651367188, CenterX = -9.036518096923828, CenterY = 16.928695917129517, CenterZ = -9.452396392822266, Radius = 76.55565134826985 }, material count 41
+2026-07-06 18:02:23.490 +03:00 [INF] Camera Perspective. Position -109.03651809692383,-83.07130408287048,90.54760360717773, look 100,100,-100, up 0,0,1, near 0.1, far 1200
+2026-07-06 18:02:23.490 +03:00 [INF] Scene layer added. Id "fe3e10a5-a6aa-4aed-a353-d4f64f6f2b2c", name bugatti.obj, type "Mesh", world bounds SceneBounds { MinX = 0, MinY = 0, MinZ = 0, MaxX = 0, MaxY = 0, MaxZ = 0, Width = 0, Depth = 0, Height = 0, CenterX = 0, CenterY = 0, CenterZ = 0, Radius = 0 }, local bounds SceneBounds { MinX = -62.96882629394531, MinY = -4.5019450187683105, MinZ = -59.3803596496582, MaxX = 44.895790100097656, MaxY = 38.359336853027344, MaxZ = 40.47556686401367, Width = 107.86461639404297, Depth = 42.861281871795654, Height = 99.85592651367188, CenterX = -9.036518096923828, CenterY = 16.928695917129517, CenterZ = -9.452396392822266, Radius = 76.55565134826985 }, origin 389977.22388471104,4284000.644699314,0
+2026-07-06 18:02:45.585 +03:00 [INF] Application is shutting down...
+2026-07-06 18:02:52.666 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-06 18:02:52.699 +03:00 [INF] Hosting environment: Production
+2026-07-06 18:02:52.700 +03:00 [INF] Content root path: C:\ocandemir\Repos\spatialNext\GeoStudio\src\GeoViewer.UI\bin\Debug\net9.0-windows
+2026-07-06 18:02:53.319 +03:00 [INF] Camera TopDownOrthographic. Position 0,0,200, look 0,0,-1, up 0,1,0, near 0.1, far 1000
+2026-07-06 18:02:57.652 +03:00 [INF] Scene local origin initialized at 0,0,0
+2026-07-06 18:03:00.261 +03:00 [INF] Raw mesh data read. Path C:\Users\ocandemir\Downloads\6e48z1kc7r40-bugatti\bugatti\bugatti.obj, mesh count 71, vertex count 1720672, triangle count 1471772, bounds SceneBounds { MinX = -62.96882629394531, MinY = -4.5019450187683105, MinZ = -59.3803596496582, MaxX = 44.895790100097656, MaxY = 38.359336853027344, MaxZ = 40.47556686401367, Width = 107.86461639404297, Depth = 42.861281871795654, Height = 99.85592651367188, CenterX = -9.036518096923828, CenterY = 16.928695917129517, CenterZ = -9.452396392822266, Radius = 76.55565134826985 }, material count 41
+2026-07-06 18:03:00.364 +03:00 [INF] Mesh layer loaded. Path C:\Users\ocandemir\Downloads\6e48z1kc7r40-bugatti\bugatti\bugatti.obj, mesh visuals 71, vertex count 1720672, triangle count 1471772, bounds SceneBounds { MinX = -62.96882629394531, MinY = -4.5019450187683105, MinZ = -59.3803596496582, MaxX = 44.895790100097656, MaxY = 38.359336853027344, MaxZ = 40.47556686401367, Width = 107.86461639404297, Depth = 42.861281871795654, Height = 99.85592651367188, CenterX = -9.036518096923828, CenterY = 16.928695917129517, CenterZ = -9.452396392822266, Radius = 76.55565134826985 }, material count 41
+2026-07-06 18:03:00.380 +03:00 [INF] Camera Perspective. Position -109.03651809692383,-83.07130408287048,90.54760360717773, look 100,100,-100, up 0,0,1, near 0.1, far 1200
+2026-07-06 18:03:00.380 +03:00 [INF] Scene layer added. Id "4d250399-c146-47b3-838f-9642fbac1e33", name bugatti.obj, type "Mesh", world bounds SceneBounds { MinX = 0, MinY = 0, MinZ = 0, MaxX = 0, MaxY = 0, MaxZ = 0, Width = 0, Depth = 0, Height = 0, CenterX = 0, CenterY = 0, CenterZ = 0, Radius = 0 }, local bounds SceneBounds { MinX = -62.96882629394531, MinY = -4.5019450187683105, MinZ = -59.3803596496582, MaxX = 44.895790100097656, MaxY = 38.359336853027344, MaxZ = 40.47556686401367, Width = 107.86461639404297, Depth = 42.861281871795654, Height = 99.85592651367188, CenterX = -9.036518096923828, CenterY = 16.928695917129517, CenterZ = -9.452396392822266, Radius = 76.55565134826985 }, origin 0,0,0
+2026-07-06 18:03:36.194 +03:00 [INF] Application is shutting down...

@@ -1,0 +1,6 @@
+<UserControl x:Class="Rasteria.UI.Controls.MapViewer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             ClipToBounds="True"
+             SnapsToDevicePixels="True"
+             Focusable="True" />
