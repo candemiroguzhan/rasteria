@@ -1,8 +1,8 @@
 # Rasteria
 
-Rasteria is a focused Windows desktop geospatial viewer built with .NET 9, WPF, MVVM, and C#.
+Rasteria is a focused Windows desktop geospatial lightweight raster viewer built with .NET 9, WPF, MVVM, and C#.
 
-The MVP is viewer-first: open, visualize, navigate, and inspect large geospatial datasets smoothly. It is not a QGIS clone, not a full GIS editor, and does not include AI or advanced analysis features in the first version.
+Open, visualize, navigate, and inspect large geospatial datasets smoothly.
 
 ## Solution Structure
 
