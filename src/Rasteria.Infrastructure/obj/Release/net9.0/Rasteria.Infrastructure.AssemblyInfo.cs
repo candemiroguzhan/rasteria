@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rasteria.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da0efa8c4186acb9b187be43248d1f368dd91e30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd1aa65d01a76825376e1809cdda5f48e2c99f17")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rasteria.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rasteria.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
