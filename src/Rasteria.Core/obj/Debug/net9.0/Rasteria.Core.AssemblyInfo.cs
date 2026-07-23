@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rasteria.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da0efa8c4186acb9b187be43248d1f368dd91e30")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rasteria.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rasteria.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

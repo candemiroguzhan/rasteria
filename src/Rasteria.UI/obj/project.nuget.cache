@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BhIAm7p0nj4=",
+  "dgSpecHash": "fINRORcREfE=",
   "success": true,
   "projectFilePath": "C:\\ocandemir\\Repos\\Rasteria\\src\\Rasteria.UI\\Rasteria.UI.csproj",
   "expectedPackageFiles": [
@@ -214,7 +214,8 @@
     "C:\\Users\\ocandemir\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\ocandemir\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.15\\microsoft.netcore.app.runtime.win-x64.9.0.15.nupkg.sha512",
     "C:\\Users\\ocandemir\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.15.nupkg.sha512",
-    "C:\\Users\\ocandemir\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.15\\microsoft.aspnetcore.app.runtime.win-x64.9.0.15.nupkg.sha512"
+    "C:\\Users\\ocandemir\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.15\\microsoft.aspnetcore.app.runtime.win-x64.9.0.15.nupkg.sha512",
+    "C:\\Users\\ocandemir\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.57\\microsoft.windows.sdk.net.ref.10.0.26100.57.nupkg.sha512"
   ],
   "logs": []
 }

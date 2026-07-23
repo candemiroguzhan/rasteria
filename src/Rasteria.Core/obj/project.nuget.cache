@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "rR/NUJm6de8=",
+  "dgSpecHash": "IM1VbzyzucQ=",
   "success": true,
   "projectFilePath": "C:\\ocandemir\\Repos\\Rasteria\\src\\Rasteria.Core\\Rasteria.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ocandemir\\.nuget\\packages\\nettopologysuite\\2.6.0\\nettopologysuite.2.6.0.nupkg.sha512",
-    "C:\\Users\\ocandemir\\.nuget\\packages\\projnet\\2.1.0\\projnet.2.1.0.nupkg.sha512"
+    "C:\\Users\\ocandemir\\.nuget\\packages\\projnet\\2.1.0\\projnet.2.1.0.nupkg.sha512",
+    "C:\\Users\\ocandemir\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.15\\microsoft.netcore.app.runtime.win-x64.9.0.15.nupkg.sha512",
+    "C:\\Users\\ocandemir\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.15.nupkg.sha512",
+    "C:\\Users\\ocandemir\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.15\\microsoft.aspnetcore.app.runtime.win-x64.9.0.15.nupkg.sha512"
   ],
   "logs": []
 }

@@ -114,3 +114,4 @@ C:\ocandemir\Repos\Rasteria\tests\Rasteria.Rendering.Tests\obj\Debug\net9.0-wind
 C:\ocandemir\Repos\Rasteria\tests\Rasteria.Rendering.Tests\obj\Debug\net9.0-windows\Rasteria.Rendering.Tests.pdb
 C:\ocandemir\Repos\Rasteria\tests\Rasteria.Rendering.Tests\obj\Debug\net9.0-windows\Rasteria.Rendering.Tests.genruntimeconfig.cache
 C:\ocandemir\Repos\Rasteria\tests\Rasteria.Rendering.Tests\obj\Debug\net9.0-windows\ref\Rasteria.Rendering.Tests.dll
+C:\ocandemir\Repos\Rasteria\tests\Rasteria.Rendering.Tests\obj\Debug\net9.0-windows\Rasteria.Rendering.Tests.sourcelink.json

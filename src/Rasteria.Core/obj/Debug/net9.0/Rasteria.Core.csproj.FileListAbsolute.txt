@@ -25,3 +25,4 @@ C:\ocandemir\Repos\Rasteria\src\Rasteria.Core\obj\Debug\net9.0\Rasteria.Core.dll
 C:\ocandemir\Repos\Rasteria\src\Rasteria.Core\obj\Debug\net9.0\refint\Rasteria.Core.dll
 C:\ocandemir\Repos\Rasteria\src\Rasteria.Core\obj\Debug\net9.0\Rasteria.Core.pdb
 C:\ocandemir\Repos\Rasteria\src\Rasteria.Core\obj\Debug\net9.0\ref\Rasteria.Core.dll
+C:\ocandemir\Repos\Rasteria\src\Rasteria.Core\obj\Debug\net9.0\Rasteria.Core.sourcelink.json

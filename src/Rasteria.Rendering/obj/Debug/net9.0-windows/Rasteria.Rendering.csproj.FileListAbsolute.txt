@@ -31,3 +31,4 @@ C:\ocandemir\Repos\Rasteria\src\Rasteria.Rendering\obj\Debug\net9.0-windows\Rast
 C:\ocandemir\Repos\Rasteria\src\Rasteria.Rendering\obj\Debug\net9.0-windows\refint\Rasteria.Rendering.dll
 C:\ocandemir\Repos\Rasteria\src\Rasteria.Rendering\obj\Debug\net9.0-windows\Rasteria.Rendering.pdb
 C:\ocandemir\Repos\Rasteria\src\Rasteria.Rendering\obj\Debug\net9.0-windows\ref\Rasteria.Rendering.dll
+C:\ocandemir\Repos\Rasteria\src\Rasteria.Rendering\obj\Debug\net9.0-windows\Rasteria.Rendering.sourcelink.json
